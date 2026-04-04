@@ -1,12 +1,13 @@
 # BRG-29-ISEA
 
-# Lesson 1 
+# Class 1 
 -  Introduction to Linux
 -  Installing of Ubuntu, Virtualbox
 -  Testing commands in Linux
 
-# Lesson 2
+# Class 2
 
-# Lesson 3
-
-# Lesson 4
+# Class 3
+- Introduction to Bash coding
+- Bash navigating system and managing files
+# Class 4
