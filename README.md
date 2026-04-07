@@ -50,6 +50,26 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 - Tested `whoami` and `sudo` to familiarize the different statuses of users and administrators/root
 ![sudo](https://github.com/Plink04/BRG-29-ISEA/blob/65308e8ae3ad4ce27401210d2f6845697b742b6e/Lab%20Screenshots/Lab%201/Lab%20superuser.png)
+
+3. Practicing with Linux Services
+   Some tests were carried out with nginx
+   - Installation on CLI
+   ![nginx Installed](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx.png)
+
+   - NGINX websites
+   ![NGINX Original](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx%20web.png)
+   ![NGINX Ethernet](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx%20web%20edit%20gedit.png)
+   
+   - Editing website
+   ![gedit nginx](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx%20gedit.png)
+   
+   - Updated website 
+   ![nginx edited](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx%20web%20edit%20gedit.png)
+   
+Reflection:
+- There were a lot of different commands and concepts to understand, as this was my first time learning about linux and IT. Commands can be searched up with `man` but will take adequate practice to fully understand and master the usages. 
+- Not many issues were encountered as installation processes and command practices were very direct
+
 ---
 # Class 2a
 - TCO
