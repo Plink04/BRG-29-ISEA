@@ -60,7 +60,7 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
    ![NGINX Original](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx%20web.png)
    ![NGINX Ethernet](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx%20web%20edit%20gedit.png)
    
-   - Editing website
+   - Editing using gedit
    ![gedit nginx](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx%20gedit.png)
    
    - Updated website 
