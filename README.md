@@ -7,7 +7,6 @@ __Module__: BRG-27 Introduction to Server Environments and Architectures <br>
 __Host OS__: Windows 11 Home <br>
 __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
----
 This github respository serves as a journal to log the lab activities conducted, the steps taken as well as any difficulties faced and thoughts from each activity.
 ---
 
