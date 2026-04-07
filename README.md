@@ -38,6 +38,8 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 ![Command ls](https://github.com/Plink04/BRG-29-ISEA/blob/063a32f198c328b3c65ea44f54601c953e12fdd1/Lab%20Screenshots/Lab%201/Lab%20ls-la.png)
 
+3. Tested file creation with `touch`, viewing with `cat` and `less`, and editing with `gedit` and `nano`
+![Gedit](https://github.com/Plink04/BRG-29-ISEA/blob/586c6db0d7ddbf055176c8382e2ab0a46f942110/Lab%20Screenshots/Lab%201/Lab%20gedit.png)
 ---
 # Class 2
 - TCO
