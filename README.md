@@ -17,7 +17,7 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 3. After setting up the VM, the Linux system looked like this
 
-![Linux Home](https://github.com/Plink04/BRG-29-ISEA/blob/b91ea990be54d6e1c13749b69b80557c10731593/Lab%20Screenshots/Lab%201/Linux%20Home.png)
+![Linux Home](https://github.com/Plink04/BRG-29-ISEA/blob/13de6d4f173f52c7fbc208060d27fed32a39c74c/Lab%20Screenshots/Lab%201/Linux%20Home.png)
 
 ---
 
