@@ -1,7 +1,7 @@
 # BRG-29-ISEA
 ---
 
-Student: Arshvin Selva Raj
+__Student__: Arshvin Selva Raj
 Kaplan ID: CT0393277 
 Module: BRG-27 Introduction to Server Environments and Architectures
 Host OS: Windows 11 Home 
