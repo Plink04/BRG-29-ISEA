@@ -15,7 +15,7 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 ![Lab Screenshots/Lab 1/VM Config.png](https://github.com/Plink04/BRG-29-ISEA/blob/3eb58736636205fddba734f4ea10a6542e14e166/Lab%20Screenshots/Lab%201/VM%20Config.png)
 
-3. After setting up the VM, the Linux system looked like this
+3. After setting up the VM, the Linux Home page looked like this
 
 ![Linux Home](https://github.com/Plink04/BRG-29-ISEA/blob/13de6d4f173f52c7fbc208060d27fed32a39c74c/Lab%20Screenshots/Lab%201/Linux%20Home.png)
 
