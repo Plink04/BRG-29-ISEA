@@ -1,11 +1,11 @@
 # BRG-29-ISEA
 ---
 
-__Student__: Arshvin Selva Raj
-Kaplan ID: CT0393277 
-Module: BRG-27 Introduction to Server Environments and Architectures
-Host OS: Windows 11 Home 
-Linux Environment: Ubuntu 24.04.4 LTS
+__Student__: Arshvin Selva Raj <br>
+__Kaplan ID__: CT0393277 <br>
+__Module__: BRG-27 Introduction to Server Environments and Architectures
+__Host OS__: Windows 11 Home 
+__Linux Environment__: Ubuntu 24.04.4 LTS
 
 ---
 # Class 1 
