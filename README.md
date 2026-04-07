@@ -9,7 +9,7 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 ---
 
-# Class 1a-1 - Intro to Linux & Installation of Ubuntu and Virtualbox
+# Class 1a - Intro to Linux & Installation of Ubuntu and Virtualbox
 1. To begin the preparation, Ubuntu 24.04.4 LTS was downloaded
 2. Virtualbox was next downloaded from its main site and a VM (Virtual Machine) was set up with the following configurations
 
@@ -20,7 +20,7 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 ![Linux Home](https://github.com/Plink04/BRG-29-ISEA/blob/13de6d4f173f52c7fbc208060d27fed32a39c74c/Lab%20Screenshots/Lab%201/Linux%20Home.png)
 
 
-# Class 1a-2 - Linux Familiarization
+# Class 1b - Linux Familiarization
 1. Some tests were done to familiarize myself with the Linux GUI (Graphical User Interface)
 - Testing of Firefox
 ![Firefox](https://github.com/Plink04/BRG-29-ISEA/blob/7c47c7fac530e26ef4a9d9475b18c0a0d83cdfde/Lab%20Screenshots/Lab%201/Firefox%20working.png)
@@ -48,8 +48,10 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 ![Gedit](https://github.com/Plink04/BRG-29-ISEA/blob/586c6db0d7ddbf055176c8382e2ab0a46f942110/Lab%20Screenshots/Lab%201/Lab%20gedit.png)
 ![Nano](https://github.com/Plink04/BRG-29-ISEA/blob/709b66d668d622c1f1f4bbcafd364ce327b0a69b/Lab%20Screenshots/Lab%201/Lab%20nano.png)
 
+- Tested `whoami` and `sudo` to familiarize the different statuses of users and administrators/root
+![sudo](https://github.com/Plink04/BRG-29-ISEA/blob/65308e8ae3ad4ce27401210d2f6845697b742b6e/Lab%20Screenshots/Lab%201/Lab%20superuser.png)
 ---
-# Class 2
+# Class 2a
 - TCO
 - Introduction to Bash coding
 - Bash navigating system and managing files
