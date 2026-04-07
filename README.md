@@ -153,7 +153,7 @@ Reflection:
 # Class 4 - Additional Server services
 1. Chose Docker as the additional server service to download
 
-- System preparations were made to Ubuntu using the following commands:
+- System preparations were made to Ubuntu using the following commands: <br>
 `sudo apt update` <br>
 `sudo apt upgrade -y` <br>
 `sudo apt install -y curl wget gnupg lsb-release ca-certificates` <br>
