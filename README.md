@@ -94,6 +94,20 @@ Reflection:
 ---
 # Class 2a
 - TCO
+Below is the excel sheets of the calculations made between 2 types of printers, an inkjet versus a laser printer.
+[TCO](https://github.com/Plink04/BRG-29-ISEA/blob/5413e1e4355ad4b68a19af429c5e98bcd5c1ae61/Lab%20Screenshots/TCO%20PrinterS.png)
+
+Reflection:
+- There is a significant difference in cost between the inkjet printer and the laser printer, with the inkjet one being way more cost efficient for over a period of 5 years.
+- Home users who wont print as much as compared to offices (eg. 5 pages a week) are more likely to choose an inkjet printer to own, or maybe even consider just using printing services near their homes.
+- Some external non-financial factors to consider:
+  - Preference to certain brands
+  - Convenience of usage for the printer of use
+  - Availability and usefulness of customer support services for the printer
+  - Speed of printing
+- For larger workgroup printers, the main cost factors to consider would be ink bottle/cartridge/drum costs, maintenance or printer replacement costs and Paper costs.
+- The laser printer will most likely never break even to the inkjet printer due to the vast difference in cost for their ink cartridges/drums. 
+
 - Introduction to Bash coding
 - Bash navigating system and managing files
   
@@ -101,4 +115,19 @@ Reflection:
 - DNS
 - Digital Certificates
 
-# Class 4
+# Class 4 - Additional Server services
+1. Chose Docker as the additional server service to download
+
+- System preparations were made to Ubuntu using the following commands:
+`sudo apt update`
+`sudo apt upgrade -y`
+`sudo apt install -y curl wget gnupg lsb-release ca-certificates`
+
+- Docker was then installed through the CLI and Docker Desktop
+![Docker installation 1](https://github.com/Plink04/BRG-29-ISEA/blob/26b117a0a86f126abbab4eb672643c0d9e1f20f5/Lab%20Screenshots/Lab%20Installing%20Docker%201.png)
+![Docker installation 2](https://github.com/Plink04/BRG-29-ISEA/blob/26b117a0a86f126abbab4eb672643c0d9e1f20f5/Lab%20Screenshots/Lab%20Installing%20Docker%202.png)
+
+- Verification to show that Docker was successfully installed
+![Docker Verify](https://github.com/Plink04/BRG-29-ISEA/blob/26b117a0a86f126abbab4eb672643c0d9e1f20f5/Lab%20Screenshots/Lab%20Installing%20Docker%20hello%20world.png) 
+
+
