@@ -3,9 +3,9 @@
 
 __Student__: Arshvin Selva Raj <br>
 __Kaplan ID__: CT0393277 <br>
-__Module__: BRG-27 Introduction to Server Environments and Architectures
-__Host OS__: Windows 11 Home 
-__Linux Environment__: Ubuntu 24.04.4 LTS
+__Module__: BRG-27 Introduction to Server Environments and Architectures <br>
+__Host OS__: Windows 11 Home <br>
+__Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 ---
 # Class 1 
