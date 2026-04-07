@@ -65,9 +65,30 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
    
    - Updated website 
    ![nginx edited](https://github.com/Plink04/BRG-29-ISEA/blob/769d782e9cacb927ea9dedec465763e276ff6153/Lab%20Screenshots/Lab%20nginx%20web%20edit%20gedit.png)
+
+   Observations:
+   - there is a 'not secure' notification when accessing the nginx website on different IP addresses that are not the 127.0.0.1 IP (local host)
+   - sudo was needed for permission to modify the nginx web page
+   - The nano and gedit modify pages for nginx were different (nano was edited on the CLI while gedit was edited in a separate GUI)
+
+4.  Compressing and Decompressing files
+   - 3 books were downloaded using the `wget` command
+   ![Books downloaded](https://github.com/Plink04/BRG-29-ISEA/blob/2e9974546b7c1b045b2df3a4ae7f659af61e4e4f/Lab%20Screenshots/Lab%20Gutenberg%20install.png)
+   
+   - A directory was made using `mkdir` and the books were moved there using `mv`
+   ![Books moved](https://github.com/Plink04/BRG-29-ISEA/blob/2e9974546b7c1b045b2df3a4ae7f659af61e4e4f/Lab%20Screenshots/Lab%20Gutenberg%20books%20moved.png)
+
+   - The books were then compressed with `tar` and `bzip2`
+   ![Books compressed](https://github.com/Plink04/BRG-29-ISEA/blob/2e9974546b7c1b045b2df3a4ae7f659af61e4e4f/Lab%20Screenshots/Lab%20Gutenberg%20books%20zip.tar.png)
+   
+   - Command `ls-la` to compare file sizes 
+   ![books ls](https://github.com/Plink04/BRG-29-ISEA/blob/2e9974546b7c1b045b2df3a4ae7f659af61e4e4f/Lab%20Screenshots/Lab%20Gutenberg%20books%20ls.png)
+
+   - The books file was then decompressed
+   ![Books decompressed](https://github.com/Plink04/BRG-29-ISEA/blob/2e9974546b7c1b045b2df3a4ae7f659af61e4e4f/Lab%20Screenshots/Lab%20Gutenberg%20books%20decompress.png)
    
 Reflection:
-- There were a lot of different commands and concepts to understand, as this was my first time learning about linux and IT. Commands can be searched up with `man` but will take adequate practice to fully understand and master the usages. 
+- There were a lot of different commands, concepts and terminologies to understand, as this is my first time learning about linux and IT. Commands can be searched up with `man` but will take adequate practice to fully understand and master the usages. 
 - Not many issues were encountered as installation processes and command practices were very direct
 
 ---
