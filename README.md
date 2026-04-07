@@ -154,9 +154,9 @@ Reflection:
 1. Chose Docker as the additional server service to download
 
 - System preparations were made to Ubuntu using the following commands:
-`sudo apt update`
-`sudo apt upgrade -y`
-`sudo apt install -y curl wget gnupg lsb-release ca-certificates`
+`sudo apt update` <br>
+`sudo apt upgrade -y` <br>
+`sudo apt install -y curl wget gnupg lsb-release ca-certificates` <br>
 
 - Docker was then installed through the CLI and Docker Desktop
 ![Docker installation 1](https://github.com/Plink04/BRG-29-ISEA/blob/26b117a0a86f126abbab4eb672643c0d9e1f20f5/Lab%20Screenshots/Lab%20Installing%20Docker%201.png)
