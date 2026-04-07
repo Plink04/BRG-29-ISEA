@@ -26,7 +26,7 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 ![Firefox](https://github.com/Plink04/BRG-29-ISEA/blob/7c47c7fac530e26ef4a9d9475b18c0a0d83cdfde/Lab%20Screenshots/Lab%201/Firefox%20working.png)
 
 - Installation of LibreOffice
-  [LibreOffice](https://github.com/Plink04/BRG-29-ISEA/blob/7c47c7fac530e26ef4a9d9475b18c0a0d83cdfde/Lab%20Screenshots/Lab%201/Lab%20Libreoffice.png)
+![LibreOffice](https://github.com/Plink04/BRG-29-ISEA/blob/7c47c7fac530e26ef4a9d9475b18c0a0d83cdfde/Lab%20Screenshots/Lab%201/Lab%20Libreoffice.png)
 
 ---
 # Class 2
