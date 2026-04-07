@@ -95,7 +95,7 @@ Reflection:
 # Class 2a
 - TCO
 Below is the excel sheets of the calculations made between 2 types of printers, an inkjet versus a laser printer.
-[TCO](https://github.com/Plink04/BRG-29-ISEA/blob/5413e1e4355ad4b68a19af429c5e98bcd5c1ae61/Lab%20Screenshots/TCO%20PrinterS.png)
+![TCO](https://github.com/Plink04/BRG-29-ISEA/blob/5413e1e4355ad4b68a19af429c5e98bcd5c1ae61/Lab%20Screenshots/TCO%20PrinterS.png)
 
 Reflection:
 - There is a significant difference in cost between the inkjet printer and the laser printer, with the inkjet one being way more cost efficient for over a period of 5 years.
