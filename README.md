@@ -8,6 +8,10 @@ __Host OS__: Windows 11 Home <br>
 __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 ---
+
+# Introduction of Repository
+This github respository serves as a journal to log the lab activities conducted, the steps taken as well as any difficulties faced and thoughts from each activity.
+
 # Class 1 
 -  Introduction to Linux
 -  Installing of Ubuntu, Virtualbox
