@@ -12,7 +12,7 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 # Class 1a-1 - Intro to Linux & Installation of Ubuntu and Virtualbox
 1. To begin the preparation, Ubuntu 24.04.4 LTS was downloaded
 2. Virtualbox was next downloaded from its main site and a VM (Virtual Machine) was set up with the following configurations
-![Virtual Machine Configurations](Lab Screenshots/Lab 1/VM Config.png)
+![Virtual Machine Configurations]([Lab Screenshots/Lab 1/VM Config.png](https://github.com/Plink04/BRG-29-ISEA/blob/3eb58736636205fddba734f4ea10a6542e14e166/Lab%20Screenshots/Lab%201/VM%20Config.png))
 
 
 # Class 2
