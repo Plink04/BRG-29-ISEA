@@ -21,12 +21,22 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 
 # Class 1a-2 - Linux Familiarization
-1. Some tests were done to familiarize myself with the Linux GUI
+1. Some tests were done to familiarize myself with the Linux GUI (Graphical User Interface)
 - Testing of Firefox
 ![Firefox](https://github.com/Plink04/BRG-29-ISEA/blob/7c47c7fac530e26ef4a9d9475b18c0a0d83cdfde/Lab%20Screenshots/Lab%201/Firefox%20working.png)
 
 - Installation of LibreOffice
 ![LibreOffice](https://github.com/Plink04/BRG-29-ISEA/blob/7c47c7fac530e26ef4a9d9475b18c0a0d83cdfde/Lab%20Screenshots/Lab%201/Lab%20Libreoffice.png)
+
+2. Some tests were done to familiarize with the CLI (Command Line Interface)
+- Using `ps-e` and `top` to see the currently running processes in the system
+
+![Command ps-e](https://github.com/Plink04/BRG-29-ISEA/blob/7d9f51a7d30f210e7823f9ce9d281b196229877c/Lab%20Screenshots/Lab%201/Lab%20ps-e.png)
+
+- Used `ls` , `ls-a` and `ls-la` to see files listed in a directory
+- observed that certain files are not viewable in `la` and permissions of files can be seen in `ls-la`
+
+![Command ls](https://github.com/Plink04/BRG-29-ISEA/blob/063a32f198c328b3c65ea44f54601c953e12fdd1/Lab%20Screenshots/Lab%201/Lab%20ls-la.png)
 
 ---
 # Class 2
