@@ -93,7 +93,7 @@ Reflection:
 
 ---
 # Class 2a
-- TCO
+1. Total Cost of Ownership
 Below is the excel sheets of the calculations made between 2 types of printers, an inkjet versus a laser printer.
 ![TCO](https://github.com/Plink04/BRG-29-ISEA/blob/5413e1e4355ad4b68a19af429c5e98bcd5c1ae61/Lab%20Screenshots/TCO%20PrinterS.png)
 
@@ -107,9 +107,44 @@ Reflection:
   - Speed of printing
 - For larger workgroup printers, the main cost factors to consider would be ink bottle/cartridge/drum costs, maintenance or printer replacement costs and Paper costs.
 - The laser printer will most likely never break even to the inkjet printer due to the vast difference in cost for their ink cartridges/drums. 
+---
+# Class 2b
+1. Cloud Computing
 
-- Introduction to Bash coding
+
+2. Introduction to Bash coding
 - Bash navigating system and managing files
+- after familiarizing with some of the CLI commands from the previous class, the following steps were taken to carry out some activities in Bash.
+  - Using `mkdir` to create a new directory, `touch` to create a new file and `echo` to edit the contents inside the file.
+![Bash Note activity 1](https://github.com/Plink04/BRG-29-ISEA/blob/d0cb3185cbf5b7f75fe5bb30039ded299813bf47/Lab%20Screenshots/Lab%203/Lab%20Bash%20note.png)
+
+ - More practices with different commands such as `cat` to display the file contents in CLI and `cp`, `mv` and `rm` to copy, rename and remove the file respectively.
+![Bash Note activity 2](https://github.com/Plink04/BRG-29-ISEA/blob/d0cb3185cbf5b7f75fe5bb30039ded299813bf47/Lab%20Screenshots/Lab%203/Lab%20Bash%20note%202.png)
+
+Reflection: 
+- The command `mkdir` is used for making directories
+- The command `cat` can be used to display the contents of a file without having to access a GUI, similar (but different) to the command `nano`
+- The `cp` command is used to create a copy of a file but with a different name, while the `mv` command is used for renaming files
+
+- After the notes practice, some exercises were done for creating and executing Bash scripts
+  - Exercise to create a Bash script to generate a line of text
+  ![Bash Script Hello World](https://github.com/Plink04/BRG-29-ISEA/blob/d0cb3185cbf5b7f75fe5bb30039ded299813bf47/Lab%20Screenshots/Lab%203/Lab%20Bash%20Script%20amended.png)
+
+  - Exercise to create a loop and conditional script for inputting and detecting a value from 1-10 
+  ![Bash Script Loop](https://github.com/Plink04/BRG-29-ISEA/blob/d0cb3185cbf5b7f75fe5bb30039ded299813bf47/Lab%20Screenshots/Lab%203/Lab%20Bash%20System%20Info%20Script.png)
+
+  - Exercise to create a system resource monitor
+  ![Bash System Resource Monitor](https://github.com/Plink04/BRG-29-ISEA/blob/d0cb3185cbf5b7f75fe5bb30039ded299813bf47/Lab%20Screenshots/Lab%203/Lab%20Bash%20Resource%20Monitor.png)
+
+Reflection: 
+- Learnt that the `chmod` command is used to give permissions to allow a script to be executed as a programme
+- The shebang (#!/bin/bash) is to be added at the start of the script so that it can be identified and ran using Bash Shell
+- The main command I used for modifying personalized messages in scripts was using the `nano` command, and modifying the message indicated to be displayed with the `echo` command
+- The `for loop` is used when repeating a set of commands within a certain range of values/inputs
+- In the loop script exercise, the script was done such that if a value that was outside the set perimeter was keyed in, the condition to trigger the `else` command would be active run its script.
+- The following command, `! [[ "$number" =~ ^[0-9]+$ ]]` was used to handle invalid inputs for the if loop
+- Was unsure at first, but found out that the `free -h` command is used to display information about the systems memory usage in a human readable format, hence the `-h`
+- To modify the script to monitor system usage, certain commands such as `htop` or `free -h`
   
 # Class 3
 - DNS
