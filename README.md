@@ -9,10 +9,10 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 ---
 
-# Class 1 
--  Introduction to Linux
--  Installing of Ubuntu, Virtualbox
--  Testing commands in Linux
+# Class 1a-1 - Intro to Linux & Installation of Ubuntu and Virtualbox
+1. To begin the preparation, Ubuntu 24.04.4 LTS was downloaded
+2. Virtualbox was next downloaded from its main site and a VM (Virtual Machine) was set up with the following configurations
+
 
 # Class 2
 - TCO
