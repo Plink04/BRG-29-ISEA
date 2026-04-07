@@ -38,8 +38,16 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 ![Command ls](https://github.com/Plink04/BRG-29-ISEA/blob/063a32f198c328b3c65ea44f54601c953e12fdd1/Lab%20Screenshots/Lab%201/Lab%20ls-la.png)
 
-3. Tested file creation with `touch`, viewing with `cat` and `less`, and editing with `gedit` and `nano`
+- Tested file creation with `touch`, viewing with `cat` and `less`, and editing with `gedit` and `nano`
+- Observations:
+- `cat` displays the file while in the CLI while `less` opens the file in a separate screen still in the CLI
+![Cat](https://github.com/Plink04/BRG-29-ISEA/blob/73fc7a1fe216f793263c33e9b4c5546a19cb0c6b/Lab%20Screenshots/Lab%201/Lab%20cat.png)
+![Less](https://github.com/Plink04/BRG-29-ISEA/blob/73fc7a1fe216f793263c33e9b4c5546a19cb0c6b/Lab%20Screenshots/Lab%201/Lab%20less.png)
+
+- `gedit` opens up the file in a separate GUI for editing while `nano` has an editor while in the CLI terminal
 ![Gedit](https://github.com/Plink04/BRG-29-ISEA/blob/586c6db0d7ddbf055176c8382e2ab0a46f942110/Lab%20Screenshots/Lab%201/Lab%20gedit.png)
+![Nano](https://github.com/Plink04/BRG-29-ISEA/blob/709b66d668d622c1f1f4bbcafd364ce327b0a69b/Lab%20Screenshots/Lab%201/Lab%20nano.png)
+
 ---
 # Class 2
 - TCO
