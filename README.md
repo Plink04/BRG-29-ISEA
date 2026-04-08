@@ -194,10 +194,42 @@ Reflection:
 ---
 # Class 3b
 1. Scripting Linux Server Functions
+ - Bash scripting using variables and calculations
+ - Practice using scripts to set variables (eg. `a`, `b`) to have values or personalized messages
+ - Commands were used to echo the variables ( `a`= "Hello Bash using variables", `echo $a`)
+![Bash Variables](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Variables%20Test.png)
 
+![Bash Numbers](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Variables%20code.png)
+  
+- Another exercise was done by listing a sum of numbers in a sequence, then summing up the values at the end
+![Bash Sum](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Variables%20Sum.png)
 
+- Using scripts to create backups of files
+- Files were first created in the CLI using `touch` commands and `mkdir`
+![Bash Testfiles](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Testfolders.png)
 
+- A script was made to compress the newly created files into a backup tar folder
+![Bash Backup](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Testscript%20USR.png)
 
+- The script was then modified so that it could be accessible system wide by moving it to `usr/bin`
+![Bash USR](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Testscript%20USR.png)
+
+2. Crontab
+ - Practice exercise using `Crontab -e`
+ - `@Reboot` added to the crontab script so that it will run at boot time
+![Crontab 1](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Crontab.png)
+![Crontab 2](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Crontab2.png)
+
+3. Figlet and Neofetch activity
+ - Figlet and Neofetch was installed by `apt install figlet neofetch`
+
+ - Testing commands to use Figlet and Neofetch
+![Figlet Neofetch](https://github.com/Plink04/BRG-29-ISEA/blob/c81a409f5a8e872bd4c0c9486783c160f91d6fec/Lab%20Screenshots/Lab%203/Lab%20Figlet%20test.png)
+
+Reflection: 
+- Scripting for Bash can be very straight forward as similar commands are frequently used
+- Learnt that Crontab can be used for scheduling scripts to run at timed intervals (eg. hourly, daily)
+- Learnt that Figlet is used for generating ASCII Art in the CLI while Neofetch generates a system report, while also generating an ASCII of the Ubuntu logo
 ---
 # Class 4 - Additional Server services
 1. Chose Docker as the additional server service to download
