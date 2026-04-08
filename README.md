@@ -19,7 +19,7 @@ __Linux Environment__: Ubuntu 24.04.4 LTS <br>
 
 ![Linux Home](https://github.com/Plink04/BRG-29-ISEA/blob/13de6d4f173f52c7fbc208060d27fed32a39c74c/Lab%20Screenshots/Lab%201/Linux%20Home.png)
 
-
+---
 # Class 1b - Linux Familiarization
 1. Some tests were done to familiarize myself with the Linux GUI (Graphical User Interface)
 - Testing of Firefox
@@ -110,7 +110,28 @@ Reflection:
 ---
 # Class 2b
 1. Cloud Computing
+ - For this exercise, a Virtual Machine was set up using AzureVM
+ - Settings were adjusted accordingly to fit the criteria of the exercise
+ - After setting up, the AzureVM was connected to my desktop using the generated pem.key
+![Azure connected](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/Azure%20host.png)
 
+ - NGINX was installed and configured to the public IP of the VM
+![Azure Nginx](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/NGINX%20Azure.png)
+
+- Further practice was done by editing using nano
+![NGINX Practice](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/Azure%20edited.png)
+
+- Another exercise was done by linking a downloaded file to the IP
+![NGINX Practice 2](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/Azure%20edited2.png)
+
+- Some issues faced during the process of setting up of Azure:
+  - Difficulty with navigating the GUI of Azure due to how many settings there were
+  - Issues with connecting the powershell to AzureVM with the key due to incorrect/invalid commands
+  - connection issues during the process of configuring NGINX
+
+Reflection: 
+- Learnt more about the inner workings of Cloud servers
+- Certain ports such as `80`, `443`, need to be enabled for connection to web browsers
 
 2. Introduction to Bash coding
 - Bash navigating system and managing files
@@ -145,11 +166,39 @@ Reflection:
 - The following command, `! [[ "$number" =~ ^[0-9]+$ ]]` was used to handle invalid inputs for the if loop
 - Was unsure at first, but found out that the `free -h` command is used to display information about the systems memory usage in a human readable format, hence the `-h`
 - To modify the script to monitor system usage, certain commands such as `htop` or `free -h`
-  
-# Class 3
-- DNS
-- Digital Certificates
 
+  ---
+# Class 3a
+
+1. DNS
+   - Setting up a Domain using `DuckDNS`
+   - A domain was created with the URL `azurequack.duckdns.org`
+   ![DuckDNS](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/Domain%20.png)
+
+   - The domain was then updated with the IP address of the Public IP in AzureVM
+   ![Domain IP](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/Domain%20updated%20IP.png)
+
+   - Verified that the domain was working using commands such as `nslookup` and `dig`
+   ![NSLookup](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/DNS%20NSlookup.png)
+
+
+![Dig](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/DNS%20Dig.png)
+
+2. Digital Certificates
+
+- Certbot and Apache2 were installed through the CLI on Azure
+- Had some issues at first as NGINX had to be disabled first to connect the domain to Apache2
+
+![Cert Apache2](https://github.com/Plink04/BRG-29-ISEA/blob/0ffc8c6ec27e4898b52204b3e327050bf469060a/Lab%20Screenshots/Lab%202/DNS%20Apache2.png)
+
+---
+# Class 3b
+1. Scripting Linux Server Functions
+
+
+
+
+---
 # Class 4 - Additional Server services
 1. Chose Docker as the additional server service to download
 
